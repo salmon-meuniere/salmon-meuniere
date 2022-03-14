@@ -1,16 +1,26 @@
-### Hi there 👋
+## Salmon Meuniere (ムニエル鮭)
 
-<!--
-**salmon-meuniere/salmon-meuniere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Japanese student 🗾
 
-Here are some ideas to get you started:
+### Languages
+- HTML
+- PHP
+- Javascript
+  - Vue.js
+  - NuxtJS
+- CSS
+  - TailwindCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- English (CEFR B2, 英検準1級)
+- Japanese (Native)
+
+## Works
+- [のりプロ非公式スケジュール](https://schedule.noripromatome.ml)   
+     
+  <a href="https://schedule.noripromatome.ml" target="_blank" rel="noopener"><img src="https://schedule-api.noripromatome.ml/client-api/wikiImg.png" /></a>
+
+- [のりプロ公式サイト 非公式英訳](https://enghp.noripromatome.ml)
+
+## Contacts
+- [Twitter](https://twitter.com/salmon_meuniere)
+- [Mail Form](https://docs.google.com/forms/d/e/1FAIpQLScAQrPcY7BfYQKPM5eJRIN7yJTkWwPwQHhUySQXO0Eyd3Z6Kw/viewform?usp=sf_link)
